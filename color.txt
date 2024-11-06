@@ -1,2 +1,4 @@
 1. red
 2. blue
+3. white
+4. black
